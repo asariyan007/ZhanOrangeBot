@@ -10,7 +10,7 @@ from telegram.helpers import escape_markdown
 
 # 🔑 Config
 BOT_TOKEN = "8438689362:AAH_Q1FzMbMRTGNk5HU8mdg1_H0bgHsWyjc"
-CHAT_ID = "-4754256736"
+CHAT_ID = "-1002513011287"
 API_URL = "https://trydifferent.2cloud.top/ariapi.php"
 
 bot = Bot(token=BOT_TOKEN)
